@@ -1,0 +1,5 @@
+package museumvisit
+
+class Explorer {
+
+}
